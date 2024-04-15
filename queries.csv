@@ -1,0 +1,190 @@
+what is machine learning ?	1, 3
+Why do we need to know about machine learning ? 	2
+What is deep learning?	4, 5
+How is deep learning different from machine learning ?	5
+When do we use deep learning or machine learning for a task?	6,7
+What is artificial intelligence ? 	8
+What are some uses of AI ? 	9
+How do machine learning models learn? 	10, 16
+What are the different types of machine learning model ?	11
+What is supervised learning ?	12, 20, 30
+What is unsupervised learning ? 	13, 21, 59
+What is semi-supervised learning? 	14
+What is reinforcement learning ? 	15, 28
+What are the drawbacks of working with machine learning models ? 	17, 29
+What is overfitting data in machine learning ?	18, 35
+What is underfitting data in machine learning ? 	19, 36
+What is model based predictive learning? 	22
+What is instance based predictive learning ? 	23
+What is online learning ? 	24, 25
+What is batch learning ? 	26, 27
+How to avoid overfitting data 	31
+How to test if the model is a good or bad model? 	32, 34, 37
+Why do we need to evaluate models ? 	33
+What is accuracy in machine learning? 	38
+What is precision in machine learning? 	39
+What is recall in machine learning? 	40
+What is F1 score? 	41
+What is mean absolute error in regression analysis?	42
+What is mean squared error in regression analysis?	43
+What is root mean squared error in regression analysis?	44
+What is r-squared in regression analysis?	45
+What is adjusted r-squared in regression analysis?	46
+What is Mean squared bias in regression analysis?	47
+What is statistical machine learning ?	48, 49
+What is linear regression 	49, 50
+When do we use linear regression? 	50
+What is logistic regression? 	51, 52
+When do we use logistic regression? 	52
+What is a decision tree? 	53
+When do we use a decision tree ?	53
+What is a random forest? 	54
+What is a support vector machine? 	55
+When do we use support vector machine ?	55
+What are  k nearest neighbors  ? 	56
+When do we use k nearest neighbors ?	56
+What is gradient boosting algorithms  	57
+When do we use gradient boosting algorithms  ?	57
+What are neural networks in Deep learning ? 	58
+What is Natural language processing?	60, 61, 62, 67, 68
+What is the purpose of NLP ? 	61, 67
+What are some examples of NLP?	62
+What is sentiment analysis ? 	63
+What is an example of sentiment analysis ? 	63
+What is token classification ?	64
+What is question answering ?	65
+What is Automatic speech recognition ? What is ASR ? 	66
+What is morphology ? 	69
+Why is morphology important for NLP ? 	69
+What are the processing stages in NLP ? 	70, 71, 72, 73, 74
+What is stopword removal in NLP?	72
+What is punctuation removal in NLP ?	72
+What is stemming and lemmatization in NLP ? 	73
+What is tokenization in NLP ?	74
+What is feature engineering in NLP ? 	75
+What is Bag of words or Countvectorizer ?	76
+What is term frequency Inverse Document Frequency (TF-IDF) ?	77
+What is Word2Vec Embedding ?	78
+What is SentenceBert ?	79
+What is GloVe ?	80
+What is a named entity recognition (NER)?	81
+What is a language model ?	82, 83
+What are the different types of language? models 	83
+What are text generation models ?	84
+What are large language models ?	85, 86
+What are the challenges of an LLM model? What are the drawbacks?	87
+What is an example of an LLM model ? 	88
+What are APIs and how can API help with LLM models  	89
+What is a CNN model ? 	90, 91
+What are the applications of a CNN model?	91
+What is the model architecture of a CNN model and how does it work?	92
+What is the input layer of a CNN model ? 	92, 93
+What is the Convolutional layer 	94, 92
+What is the activation layer in a CNN model ?	95
+What is the pooling layer in a CNN model ? 	96
+What is the fully connected layer in a CNN model ?	97
+What are the key characteristics of a CNN model ?	98
+What are the image preprocessing tools ? 	99
+How and why do we modify the images before passing it as inputs 	100
+What is a sliding window in CNN 	101
+What is Element-wise Multiplication	102
+What are the filters in CNN for ? What do they do 	103
+What is a feature map in a CNN model? 	104
+What are strides in CNN models ? 	105
+What is padding in CNN ? 	106
+What are pooling layers in a CNN model? 	107
+What are the different types of pooling layers 	108
+What is forward pass in the training process of a convolutional network 	109
+What are activation functions in a CNN model ? 	110
+What is loss calculation in a CNN model? 	111
+What is back propagation? 	112
+What is weight update in a neural network model? 	113
+What are the factors that influence the computational cost of a CNN model 	114
+What are the computational challenges faced by a CNN model 	115
+How can the computational costs be reduced for a CNN model ? 	116
+What is the backbone of a CNN model? 	117
+Why are backbones of CNN model important ? 	118
+What are the names of some CNN architectures ? 	119
+What is sampling rate in audio data processing 	120
+What is Digital Signal Processing?	121
+What is Fourier Transform and Spectral Analysis? 	122
+What are the Challenges in Speech Recognition	123
+What is Automatic speech recognition ? What is ASR ? 	124, 125 
+What is Wav2Vec ? 	126, 127
+How does Wav2Vec work? 	127
+What is Sequence Data? 	128
+What is Sequence Learning?	129
+What are some examples of Sequence Learning Approaches?	130
+What are some of the Challenges in Sequence Learning 	131
+What is vanishing gradient problem?	132
+What is the exploding gradient problem ? 	133
+How to solve Vanishing Gradient Problems 	134
+How to solve Exploding Gradient Problems 	135
+What is Long Short-Term Memory models 	136
+How do LSTM models work? 	137
+How are LSTM models trained? 	138
+How are LSTM models optimized ? 	139
+What are Bidirectional LSTMs ?	140
+what is a Seq2Seq model ? 	141
+How do Seq2Seq models work? 	142
+What is a context vector 	143
+How does the encoder and decoder work ?	144, 141
+When was transformer model introduced? 	145
+How is transformer model different from RNN and LSTM	146, 147
+What are the main features of the transformer model 	147
+What is parallelization in a transformer model 	148
+What is self attention mechanism in a transformer model	149
+How does the transformer architecture work? 	150
+What is multi head attention	151
+What are examples of some transformer based models 	152
+How does positional encoding work in transformer models 	153
+What is sentence tokenization 	154
+What is byte pair encoding 	155
+What is wordpiece encoding 	156
+What is sentence piece encoding	157
+What is transfer learning 	158, 200
+What is model fine tuning ? And how does it work? 	159
+What are Multimodal transformers 	160
+What are examples of some multimodal transformer model 	161
+What are recommendation systems 	162
+What are the different types of recommendation systems 	163
+What is collaborative filtering ?	164
+What is content based filtering ?	165
+What is demographic based filtering ?	166
+What is context aware systems ?	167
+What is a hybrid system in recommendation systems	168
+What is surprise in recommendation systems?	169
+What is Tensorflow recommenders in the recommendation systems 	170
+What is lightFM in recommendation systems 	171
+What is TFRS in recommendation systems 	172
+What are recommendation engines? 	173
+How is data collected for recommendation engines ? 	174
+What is matrix factorization in recommendation systems 	175
+What is MAP at k in recommendation systems 	176
+What is NDCG in recommendation system 	177
+What is optimization in ML and deep learning 	178
+How to optimize models 	179
+What is regularization in ML and DL	180, 181
+What are the regularization methods in ML	181
+What is L1 regularization ?	182
+What is L2 regularization ?	183
+What is dropout method in model optimization 	184
+What is early stopping in ML model training 	185
+What is data augmentation in ML training 	186
+What is learning rate scheduling in model training 	187, 188
+Why is the learning rate important in model training 	188
+What are the different types of learning rate 	189
+Why is data augmentation important 	190
+What are the different types of data augmentation	191
+What are model hyperparameters	192
+Why is hyperparameter tuning important ?	193
+What are the different methods of hyperparameter tuning ?	194
+What are the other methods of model optimization ?	195
+How are the parameters chosen for pruning 	196
+What are the different types of pruning 	197
+What is quantization in model optimization 	198
+What are the different types of quantization 	199
+How does transfer learning work 	200
+What are the different types of transfer learning	201
+What is Knowledge Distillation 	202
+How does knowledge distillation work 	203
